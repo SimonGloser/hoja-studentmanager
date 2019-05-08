@@ -1,0 +1,13 @@
+Student
+
+name            city    number, street, zipCode, matrikel
+Simon Gloser Eschborn 8 Neugasse 65760 21232123
+Jon Doe Frankfurt 7 Mainstreet 50054 23113434
+
+
+Dozent
+
+name            city    number, street, zipCode, money
+
+John Doe Berlin 8 Hauptstrasse 34569 4.09
+Max Museterman Hamburg 7 Kornmarkt 23124 32.09
